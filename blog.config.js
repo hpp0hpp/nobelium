@@ -2,7 +2,7 @@ const BLOG = {
   title: 'hpp的小站',
   author: 'hpp',
   email: 'hpp0hpp@hotmail.com',
-  link: 'https://blog.ikid.app',
+  link: 'https://blog.ikid.top',
   description: '这是我的小站,分享自己最好玩最有趣的新发现',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
